@@ -1,1 +1,1 @@
-console.log("Test de commit Git");
+echo "console.log('Nouvelle feature');" > test.js
